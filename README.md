@@ -8,6 +8,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Surprise](https://img.shields.io/badge/Surprise-Recommenders-1f77b4)](https://surpriselib.com)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)](https://mysql.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **A hybrid recommender that blends "what did similar users watch?" with "what are similar movies?" — and ships the collaborative engine in three separate implementations to compare abstraction vs. control.**
 
