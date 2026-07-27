@@ -72,3 +72,7 @@ python main.py                  # default (sklearn)
 ## Tech Stack
 
 `Python` · `scikit-learn` · `Surprise` · `SciPy` · `MySQL` · `Pandas`
+
+## License
+
+MIT — see [LICENSE](LICENSE).
