@@ -50,7 +50,8 @@ hybrid-movie-recommender/
 │   ├── data_loader.py              # load + clean
 │   ├── model_builder{,_scipy,_surprise}.py
 │   └── recommender{,_scipy,_surprise}.py
-├── notebooks/demo.ipynb            # interactive demo
+├── data/db_schema.sql              # MySQL schema
+├── demo.ipynb                      # interactive demo
 ├── generate_dummy_data.py
 └── main.py                         # live service entry point
 ```
